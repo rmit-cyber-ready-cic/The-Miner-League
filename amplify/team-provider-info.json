@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "<Stack Name>-authRole",
+      "UnauthRoleArn": "arn:aws:iam::<AWS Account Number>:role/<Stack Name>-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::<AWS Account Number>:role/<Stack Name>-authRole",
+      "Region": "<Region>",
+      "DeploymentBucketName": "<Stack Name>-deployment",
+      "UnauthRoleName": "<Stack Name>-unauthRole",
+      "StackName": "<Stack Name>",
+      "StackId": "arn:aws:cloudformation:<region>:<AWS Account Number>:stack/<Stack Name>/6bafe9c0-02e1-11eb-90a2-0695f197xxxx",
+      "AmplifyAppId": "<Unique App ID>"
+    },
+    "categories": {
+      "auth": {
+        "probablesystem<shareID>": {}
+      }
+    }
+  }
+}

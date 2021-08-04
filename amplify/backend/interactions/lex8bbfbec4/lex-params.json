@@ -1,0 +1,25 @@
+{
+    "resourceName": "lex8bbfbec4",
+    "botName": "SmartChatBot",
+    "intents": [
+        {
+            "slots": [
+                {
+                    "name": "name",
+                    "type": "AMAZON.Person",
+                    "prompt": "What is your name?",
+                    "required": true,
+                    "customType": false
+                }
+            ],
+            "utterances": [
+                "Hi there"
+            ],
+            "intentName": "Greetings",
+            "newSlotTypes": []
+        }
+    ],
+    "outputVoice": false,
+    "sessionTimeout": 5,
+    "coppa": false
+}

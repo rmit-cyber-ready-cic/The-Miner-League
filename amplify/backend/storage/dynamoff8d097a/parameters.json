@@ -1,0 +1,5 @@
+{
+    "tableName": "addgroup",
+    "partitionKeyName": "Id1",
+    "partitionKeyType": "S"
+}
